@@ -101,8 +101,8 @@ Azure Active Directory (Azure AD). You\'ll be able to manage and modify these se
 
 4. You may be prompted to update the privacy levels. Select the ignore Privacy levels text box and press the Save button.
 
-![Privacy Level Message](./images/UOD9.png)
+![Privacy Level Message](./images/UOD9.PNG)
 
 5. It may take a few minutes to load the data, but if all steps and permissions are set correctly the report should load.
 
-![Example of successfully loading the report](./images/UOD10.png)
+![Example of successfully loading the report](./images/UOD10.PNG)
