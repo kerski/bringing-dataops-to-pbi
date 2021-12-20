@@ -4,6 +4,8 @@ These instructions are a continuation from <a href="https://www.kerski.tech/brin
 
 > ***Important Note**: This guide is customized to Power BI for U.S. Commercial environment. If you are trying to set this up for another Microsoft cloud environment (like U.S. Gov Cloud), please check Microsoft's documentation for the appropriate URLs. They will be different from the U.S. Commercial environment.*
 
+> ***Important Note**: If you have access to a Power BI Gateway, you'll want to use a custom connector instead of this approach as described here: https://blog.crossjoin.co.uk/2021/08/29/connecting-to-rest-apis-with-oauth2-authentication-in-power-query-power-bi/.  However, if you don't have a gateway available, please be sure to publish this Power BI report in a worskpace that is only accessible to those who need it.  This is because the client secret is stored in this Power BI file.*
+
 ## Prerequisites
 
 -   Power BI Premium Per User license assigned to a service account. If you do not have a Premium Per User license, use the "Buy Now" feature on <a href="https://docs.microsoft.com/en-us/power-bi/admin/service-premium-per-user-faq" target="_blank">Microsoft's site</a> or if you don't have access to do that, please contact your administrator (be nice!).
